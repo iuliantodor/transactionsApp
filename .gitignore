@@ -9,3 +9,5 @@ TransactionApp/TransactionApp.NUnitTests/bin/
 TransactionApp/TransactionApp.NUnitTests/obj/
 TransactionApp/TransactionApp/bin/
 TransactionApp/TransactionApp/obj/
+TransactionApp/bin/
+TransactionApp/obj/

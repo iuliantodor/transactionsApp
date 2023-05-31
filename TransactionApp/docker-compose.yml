@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  transactionapp:
+    image: ${DOCKER_REGISTRY-}transactionapp
+    build:
+      context: .
+      dockerfile: TransactionApp\Dockerfile

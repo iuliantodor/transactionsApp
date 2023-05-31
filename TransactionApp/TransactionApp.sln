@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionApp.Infrastructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionApp.NUnitTests", "TransactionApp.NUnitTests\TransactionApp.NUnitTests.csproj", "{C364FBE7-4F2D-493C-BD73-AA0637FD2705}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{6A50E350-DF03-4BDA-9DAF-A02A31622ECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C364FBE7-4F2D-493C-BD73-AA0637FD2705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C364FBE7-4F2D-493C-BD73-AA0637FD2705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C364FBE7-4F2D-493C-BD73-AA0637FD2705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A50E350-DF03-4BDA-9DAF-A02A31622ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A50E350-DF03-4BDA-9DAF-A02A31622ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A50E350-DF03-4BDA-9DAF-A02A31622ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A50E350-DF03-4BDA-9DAF-A02A31622ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
