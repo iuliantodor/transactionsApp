@@ -1,0 +1,11 @@
+TransactionApp/.vs/
+TransactionApp/TransactionApp.Application/bin/
+TransactionApp/TransactionApp.Application/obj/
+TransactionApp/TransactionApp.Domain/bin/
+TransactionApp/TransactionApp.Domain/obj/
+TransactionApp/TransactionApp.Infrastructure/bin/
+TransactionApp/TransactionApp.Infrastructure/obj/
+TransactionApp/TransactionApp.NUnitTests/bin/
+TransactionApp/TransactionApp.NUnitTests/obj/
+TransactionApp/TransactionApp/bin/
+TransactionApp/TransactionApp/obj/
