@@ -5,4 +5,4 @@ services:
     image: ${DOCKER_REGISTRY-}transactionapp
     build:
       context: .
-      dockerfile: TransactionApp\Dockerfile
+      dockerfile: TransactionApp/Dockerfile

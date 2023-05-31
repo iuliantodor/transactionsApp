@@ -2,10 +2,10 @@
 <Project ToolsVersion="15.0" Sdk="Microsoft.Docker.Sdk">
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
-    <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>6a50e350-df03-4bda-9daf-a02a31622ece</ProjectGuid>
+    <DockerTargetOS>Linux</DockerTargetOS>
+    <ProjectGuid>d0dbb2ec-802a-46cc-b370-d56039a375a8</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
-    <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/swagger</DockerServiceUrl>
+    <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>transactionapp</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
